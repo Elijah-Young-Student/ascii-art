@@ -1,0 +1,15 @@
+/workspaces/ascii-art/bin/Debug/net8.0/ascii-art
+/workspaces/ascii-art/bin/Debug/net8.0/ascii-art.deps.json
+/workspaces/ascii-art/bin/Debug/net8.0/ascii-art.runtimeconfig.json
+/workspaces/ascii-art/bin/Debug/net8.0/ascii-art.dll
+/workspaces/ascii-art/bin/Debug/net8.0/ascii-art.pdb
+/workspaces/ascii-art/obj/Debug/net8.0/ascii-art.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ascii-art/obj/Debug/net8.0/ascii-art.AssemblyInfoInputs.cache
+/workspaces/ascii-art/obj/Debug/net8.0/ascii-art.AssemblyInfo.cs
+/workspaces/ascii-art/obj/Debug/net8.0/ascii-art.csproj.CoreCompileInputs.cache
+/workspaces/ascii-art/obj/Debug/net8.0/ascii-art.sourcelink.json
+/workspaces/ascii-art/obj/Debug/net8.0/ascii-art.dll
+/workspaces/ascii-art/obj/Debug/net8.0/refint/ascii-art.dll
+/workspaces/ascii-art/obj/Debug/net8.0/ascii-art.pdb
+/workspaces/ascii-art/obj/Debug/net8.0/ascii-art.genruntimeconfig.cache
+/workspaces/ascii-art/obj/Debug/net8.0/ref/ascii-art.dll
